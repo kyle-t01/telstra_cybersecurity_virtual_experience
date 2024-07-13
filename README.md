@@ -1,4 +1,4 @@
-# telstra_cybersecurity_virtual_experience
+# Telstra Cybersecurity Virtual Experience
 
 ## Experience Summary
 Virtual Experience URL:
